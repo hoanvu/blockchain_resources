@@ -11,6 +11,7 @@ Stores references to resources related to blockchain that I found along the jour
 
 ## Blockchain basics
 
+- [ ] [Blockchain 101 - A demo](https://www.youtube.com/watch?v=_160oMzblY8&feature=emb_title) (very good explanation of how blockchain works)
 - [ ] [But how does Bitcoin actually work? - 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be) (very good explanation)
 - [ ] [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [ ] [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
