@@ -10,8 +10,10 @@ Stores references to resources related to blockchain that I found along the jour
 
 ## Blockchain basics
 
+- [ ] [But how does Bitcoin actually work? - 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be) (very good explanation)
 - [ ] [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [ ] [What is meant by the term "gas"?](https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas)
+- [ ] [Let's build a blockchain - a mini cryptocurrency in Ruby](https://www.youtube.com/watch?v=3aJI1ABdjQk&feature=youtu.be) (has coding but cover lots of basic stuffs)
 
 ## Ethereum 2.0 concepts
 
