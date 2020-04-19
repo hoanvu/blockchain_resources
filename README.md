@@ -4,8 +4,9 @@ Stores references to resources related to blockchain that I found along the jour
 
 ## General basics
 
-- [BFT - Byzantine Fault Tolerance] (https://en.wikipedia.org/wiki/Byzantine_fault)
+- [BFT - Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault)
   - [ ] [The Byzantine Generals Problem - A Practical explanation](https://marknelson.us/posts/2007/07/23/byzantine.html)
+  - [ ] [PBFT - Practical Byzantine Fault Tolerance](https://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 
 ## Blockchain basics
 
@@ -20,3 +21,8 @@ Stores references to resources related to blockchain that I found along the jour
 ## Learn Solidity 
 
 - [ ] [The authoritative guide to blockchain development](https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+
+## Online courses
+
+- [ ] [Bitcoin and CryptoCurrency Technologies by Princeton (Youtube videos)](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
+- [ ] [Learning Solidity by "Will It Scale" (YouTube videos)](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
