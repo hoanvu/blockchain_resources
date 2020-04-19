@@ -4,7 +4,7 @@ Stores references to resources related to blockchain that I found along the jour
 
 ## General basics
 
-- [ ] [BFT - Byzantine Fault Tolerance] (https://en.wikipedia.org/wiki/Byzantine_fault)
+- [BFT - Byzantine Fault Tolerance] (https://en.wikipedia.org/wiki/Byzantine_fault)
   - [ ] [The Byzantine Generals Problem - A Practical explanation](https://marknelson.us/posts/2007/07/23/byzantine.html)
 
 ## Blockchain basics
