@@ -6,4 +6,9 @@ Stores references to resources related to blockchain that I found along the jour
 
 ### Blockchain basics
 
-- [x] How does Ethereum work, anyway?
+- [] How does Ethereum work, anyway?
+- 
+
+### Ethereum 2.0
+
+- [] The Beacon Chain Ethereum 2.0 explainer
