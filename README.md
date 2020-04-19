@@ -5,4 +5,4 @@ Stores references to resources related to blockchain that I found along the jour
 ### General basics
 
 ### Blockchain basics
-[] How does Ethereum work, anyway?
+- [] How does Ethereum work, anyway?
