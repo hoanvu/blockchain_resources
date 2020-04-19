@@ -6,4 +6,4 @@ Stores references to resources related to blockchain that I found along the jour
 
 ### Blockchain basics
 
-- [] How does Ethereum work, anyway?
+- [x] How does Ethereum work, anyway?
