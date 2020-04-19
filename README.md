@@ -12,3 +12,4 @@ Stores references to resources related to blockchain that I found along the jour
 ### Ethereum 2.0
 
 - [] The Beacon Chain Ethereum 2.0 explainer
+- [] Casper FFG explainer
