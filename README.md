@@ -22,7 +22,8 @@ Stores references to resources related to blockchain that I found along the jour
 
 - [ ] [The authoritative guide to blockchain development](https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 
-## Online courses
+## Online courses and Tutorial series
 
+- [ ] [Introduction to CryptoCurrency (text and exercises](https://haseebq.com/introduction-to-cryptocurrency/)
 - [ ] [Bitcoin and CryptoCurrency Technologies by Princeton (Youtube videos)](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 - [ ] [Learning Solidity by "Will It Scale" (YouTube videos)](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
