@@ -9,6 +9,8 @@ Stores references to resources related to blockchain that I found along the jour
   - [ ] [The Byzantine Generals Problem - A Practical explanation](https://marknelson.us/posts/2007/07/23/byzantine.html)
   - [ ] [PBFT - Practical Byzantine Fault Tolerance](https://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 
+- [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+
 ## Blockchain basics
 
 - [ ] [Blockchain 101 - A demo](https://www.youtube.com/watch?v=_160oMzblY8&feature=emb_title) (very good explanation of how blockchain works)
